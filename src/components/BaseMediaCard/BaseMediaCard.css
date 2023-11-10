@@ -1,0 +1,21 @@
+.BaseMediaCard {
+    padding: 12px;
+
+    border: 1px solid #4b0080cc;
+    border-radius: 16px;
+    box-shadow: hsl(206 22% 7% / 35%) 0px 10px 38px -10px;
+
+    display: grid;
+    gap: 12px;
+}
+
+.BaseMediaCard__images {
+    display: grid;
+    gap: 4px;
+}
+
+.BaseMediaCard__image {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: hsl(206 22% 7% / 35%) 0px 10px 38px -10px;
+}

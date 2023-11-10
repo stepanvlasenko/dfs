@@ -1,0 +1,28 @@
+.header {
+    background: linear-gradient(93deg, #1F7E00 0%, #000 52.6%, #4B0080 100%);
+
+    padding: 16px;
+    border-radius: 0 0 16px 16px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navigation__item {
+    transition: 300ms;
+}
+
+.navigation__item:hover {
+    transition: 300ms;
+    background-color: #4b0080cc;
+}
+
+.header__logo {
+    height: inherit;
+}
+
+.logo__image {
+    height: 84px;
+}

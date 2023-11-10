@@ -1,0 +1,1 @@
+header gradient: linear-gradient(93deg, #1F7E00 0%, #000 52.6%, #4B0080 100%);

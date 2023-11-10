@@ -1,0 +1,16 @@
+.page {
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.text--purple {
+    color: #4b0080cc;
+}
+.text--black {
+    color: #000000;
+}
+.text--green {
+    color: #1f7e00cc;
+}

@@ -1,0 +1,16 @@
+.dropdown__button {
+    padding: 0;
+    margin: 0;
+    border: none;
+    background-color: transparent;
+}
+
+.dropdown__image {
+    transition: 300ms;
+}
+
+.dropdown__image--active {
+    transform: rotate(90deg);
+    transition: 300ms;
+}
+

@@ -1,0 +1,11 @@
+.contacts__map {
+    border: 1px solid #4b0080cc;
+    border-radius: 16px;
+    box-shadow: hsl(206 22% 7% / 35%) 0px 10px 38px -10px;
+    overflow: hidden;
+    aspect-ratio: 16/9;
+}
+
+.map__marker {
+    width: 32px;
+}

@@ -1,0 +1,13 @@
+.news--container {
+    display: grid;
+    gap: 20px;
+}
+
+.news__paragraphs {
+    display: grid;
+    gap: 12px;
+}
+
+.news__trigger {
+    display: grid;
+}
