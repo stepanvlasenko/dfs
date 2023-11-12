@@ -51,7 +51,7 @@ export default function Header() {
                 </DropdownMenu.Content>
             </DropdownMenu.Root>
             <div className='header__logo'>
-                <img className='logo__image' src="/src/assets/images/xfit-logo.png" alt="" />
+                <img className='logo__image' src="/images/xfit-logo.png" alt="" />
             </div>
         </div>
     )

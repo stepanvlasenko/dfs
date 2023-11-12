@@ -10,18 +10,18 @@ const data: MeidaCardData[] = [
     {
         title: 'Персональный тренер Александр Антоненко!',
         imageSrc: [
-            '/src/assets/images/media/mtxPcHfwJII.jpg',
-            '/src/assets/images/media/IF8sull6iM0.jpg',
-            '/src/assets/images/media/g4uOfb8rm2U.jpg',
+            '/images/media/mtxPcHfwJII.jpg',
+            '/images/media/IF8sull6iM0.jpg',
+            '/images/media/g4uOfb8rm2U.jpg',
         ],
     },
     {
         title: 'Персональный тренер Евгения Браташ!',
         imageSrc: [
-            '/src/assets/images/media/WfoyIA4aQLk.jpg',
-            '/src/assets/images/media/Xh7324rgxmY.jpg',
-            '/src/assets/images/media/sApFFvcFCQw.jpg',
-            '/src/assets/images/media/3AoOpxKUOZY.jpg',
+            '/images/media/WfoyIA4aQLk.jpg',
+            '/images/media/Xh7324rgxmY.jpg',
+            '/images/media/sApFFvcFCQw.jpg',
+            '/images/media/3AoOpxKUOZY.jpg',
         ]
     }
 ]

@@ -21,7 +21,7 @@ export default function Contacts() {
                     <YMapDefaultSchemeLayer />
                     <YMapDefaultFeaturesLayer />
                     <YMapMarker coordinates={[39.540543, 50.200203]} >
-                        <img className='map__marker' src="/src/assets/images/map-baloon.svg" />
+                        <img className='map__marker' src="/images/map-baloon.svg" />
                     </YMapMarker>
                 </YMap>
             </div>
